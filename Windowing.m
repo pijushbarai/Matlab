@@ -44,10 +44,6 @@ title('sinewave multiply by rectangular window');
 
 
 %%% Triangluar Window
-tw = triang(N);
-    
-subplot(3, 3, 6)
-plot(tw);
-title('Triangular window');
+
 
 
